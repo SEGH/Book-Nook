@@ -1,4 +1,5 @@
 # Book Nook
+* [Deployed Site](https://segh.github.io/Book-Nook/)
 
 ## About 
 
